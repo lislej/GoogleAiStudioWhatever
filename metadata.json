@@ -1,0 +1,5 @@
+{
+  "name": "ClamAV Sentinel GUI",
+  "description": "A sophisticated cross-platform web interface for ClamAV, featuring real-time scan monitoring, threat analysis powered by Gemini AI, and system health dashboards.",
+  "requestFramePermissions": []
+}
